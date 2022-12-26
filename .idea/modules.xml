@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/loterias.iml" filepath="$PROJECT_DIR$/loterias.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intellijWorkspace.iml" filepath="$PROJECT_DIR$/intellijWorkspace.iml" />
     </modules>
   </component>
 </project>
