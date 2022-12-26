@@ -12,7 +12,7 @@ public class Main {
         IntStream.range(1, 8).forEachOrdered(i -> {
             ArrayList<Integer> numbers = (ArrayList<Integer>) new Random().ints(1, 60).limit(6).boxed().collect(Collectors.toList());
             Collections.sort(numbers);
-            System.out.println("Jogo " + i + " - " + numbers);
+            System.out.println("Game " + i + " - " + numbers);
         });
     }
 }
